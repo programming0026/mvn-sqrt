@@ -3,7 +3,7 @@ package com.juniverse.math;
 /**
  * Raíz cuadrada que parte de la raíz entera (búsqueda binaria) y se refina con Newton-Raphson.
  *
- * @author ajuar
+ * @author Java Universe
  */
 public class SearchSqrt implements SqrtStrategy{
 

@@ -3,7 +3,7 @@ package com.juniverse.math;
 /**
  * Raíz cuadrada con la técnica de Quake III (constante mágica 0x5f3759df) para 1/√x. Solo con fines didácticos.
  *
- * @author ajuar
+ * @author Java Universe
  */
 public class QuakeSqrt implements SqrtStrategy {
 

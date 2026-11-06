@@ -3,7 +3,7 @@ package com.juniverse.math;
 /**
  * Raíz cuadrada con el método de Newton-Raphson (método babilónico).
  *
- * @author ajuar
+ * @author Java Universe
  */
 public class NewtonSqrt implements SqrtStrategy {
 

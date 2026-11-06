@@ -3,7 +3,7 @@ package com.juniverse.math;
 /**
  * Estrategia para calcular la raíz cuadrada de un número.
  *
- * @author ajuar
+ * @author Java Universe
  */
 public interface SqrtStrategy {
 

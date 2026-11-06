@@ -3,7 +3,7 @@ package com.juniverse.math;
 /**
  * Fachada que elige el algoritmo de raíz cuadrada.
  *
- * @author ajuar
+ * @author Java Universe
  */
 public final class SqrtCalculator {
 

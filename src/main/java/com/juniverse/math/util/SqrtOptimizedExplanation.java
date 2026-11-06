@@ -5,7 +5,7 @@ import com.juniverse.math.SqrtCalculator;
 /**
  * Explicación paso a paso, por consola, del método de raíz cuadrada con manipulación de bits.
  *
- * @author ajuar
+ * @author Java Universe
  */
 public final class SqrtOptimizedExplanation {
 

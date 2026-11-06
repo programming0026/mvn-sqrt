@@ -3,7 +3,7 @@ package com.juniverse.math;
 /**
  * Raíz cuadrada con {@link Math#sqrt(double)}, la opción más rápida y precisa en Java.
  *
- * @author ajuar
+ * @author Java Universe
  */
 public class MathSqrt implements SqrtStrategy {
 

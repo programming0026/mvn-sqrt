@@ -3,7 +3,7 @@ package com.juniverse.math;
 /**
  * Raíz n-ésima (cuadrada, cúbica, etc.) con Newton-Raphson; admite raíces impares de números negativos.
  *
- * @author ajuar
+ * @author Java Universe
  */
 public class RootCalculator implements SqrtStrategy {
 

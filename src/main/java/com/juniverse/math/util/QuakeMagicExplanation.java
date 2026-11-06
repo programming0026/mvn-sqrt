@@ -3,7 +3,7 @@ package com.juniverse.math.util;
 /**
  * Explicación paso a paso, por consola, de la constante mágica de Quake III.
  *
- * @author ajuar
+ * @author Java Universe
  */
 public final class QuakeMagicExplanation {
 

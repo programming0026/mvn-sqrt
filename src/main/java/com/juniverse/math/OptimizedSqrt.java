@@ -4,7 +4,7 @@ package com.juniverse.math;
  * Raíz cuadrada con una aproximación inicial por manipulación de los bits del double
  * y tres iteraciones de Newton-Raphson.
  *
- * @author ajuar
+ * @author Java Universe
  */
 public class OptimizedSqrt implements SqrtStrategy {
 
